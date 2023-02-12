@@ -17,7 +17,8 @@
   
  
  <details >
-# **Technologies in Learning <img src="images/writing-hand-joypixels.gif" width="24px">!** 
+  <summary> # **Technologies in Learning <img src="images/writing-hand-joypixels.gif" width="24px">!**  </summary>
+
 
 ###  I believe and honestly feel that learning is an infinite process, and with technology advancing daily, true learner is always learning.
 
