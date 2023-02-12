@@ -1,5 +1,6 @@
 # **Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">** 
 <p align="left"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1500&width=500&lines=I+am+Harkirat%2C+%F0%9F%91%B3%E2%80%8D%E2%99%82%EF%B8%8F;a+developer%2C+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;a+learner%2C+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;a+hacker%2C+%F0%9F%A5%B7;and+most+importantly+;kind+human+%F0%9F%98%8A%F0%9F%98%87." alt="Typing SVG" /></p>
+
 |Why | How| What   |
 | :------------: | :------------: | :------------: |
 |Creating Better technologies for the GREATER GOOD of Humanity.   | By learning, collaborating, and contributing more and more technologies.   | Started as a Web Developer, Currently building Mobile Apps with Flutter.  |
