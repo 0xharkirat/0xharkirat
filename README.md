@@ -13,6 +13,9 @@
 <br>
 <hr />
  
+ <div align="left">
+  
+ 
  # **Technologies in Learning**
 
 #####  I believe and honestly feel that learning is an infinite process, and with technology advancing daily, true learner is always learning.
@@ -74,6 +77,8 @@
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> |     mongoDB     |CS50 (Harvard), CS50W (Harvard), The Complete Web Development Bootcamp by Dr. Angela Yu (Udemy). |
 | <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"> |      MySQL      | University Course - Semester 2 - Database, Design & Development. |
 
+  
+ </div>
  
  <hr>
  
