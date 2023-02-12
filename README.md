@@ -1,6 +1,5 @@
 # **Hello World <img src="images/Earth.gif" width="24px">!** 
-<p align="left"><img src="images/terminal.gif" alt="Typing SVG" />
-<img src="images/banner.gif" /></p>
+<img src="images/terminal.gif" alt="Typing SVG" width="425" /> <img src="images/banner.gif" />
 
 
 
