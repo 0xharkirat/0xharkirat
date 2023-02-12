@@ -10,13 +10,6 @@
 <hr>
 <div align="center"
  <img src="images/banner.gif"/>
- 
- 
-
-
-
-
-
 
 <br>
 <br>
@@ -81,3 +74,5 @@
 ![](https://github.com/0xharkirat/0xharkirat/blob/output/github-contribution-grid-snake.svg)
  
  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=0xharkirat.0xharkirat">
+ 
+</div>
