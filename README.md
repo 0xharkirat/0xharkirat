@@ -8,7 +8,7 @@
 |Creating Better technologies for the GREATER GOOD of Humanity.   | By learning, collaborating, and contributing more and more technologies.   | Started as a Web Developer, Currently building Mobile Apps with Flutter.  |
 
 <hr>
-<div align="center"
+<div align="center">
  <img src="images/banner.gif"/>
 
 <br>
