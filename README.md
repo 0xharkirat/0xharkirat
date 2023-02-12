@@ -52,13 +52,19 @@
  <hr>
  
   
-<h2 align="left">🔥Stats🔥</h2>
+<h1 align="left">🔥Stats🔥</h1>
   
-|   |
-| :------------ |
-|  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=0xharkirat&theme=react&border=61dafb&hide_border=true" alt="0xharkirat" />   |
-|        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=0xharkirat&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
- | <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xharkirat&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,jupyter%20notebook,c%2B%2B,CMake,C&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> |
+ <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="=0xharkirat's streakk" src="https://streak-stats.demolab.com/?user=0xharkirat&theme=react&hide_border=true"/>
+    </a>
+  </p>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="0xharkirat's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=0xharkirat&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="0xharkirat's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xharkirat&layout=compact&theme=react&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=0xharkirat&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
 
