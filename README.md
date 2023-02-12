@@ -16,7 +16,7 @@
  <div align="left">
   
  
- <details >
+ <details show >
   <summary> <h1> Technologies in Learning <img src="images/writing-hand-joypixels.gif" width="24px">! </h1> </summary>
 
 
@@ -59,7 +59,7 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="=0xharkirat's streakk" src="https://streak-stats.demolab.com/?user=0xharkirat&theme=react&hide_border=true"/>
     </a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="0xharkirat's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=0xharkirat&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="0xharkirat's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xharkirat&langs_count=8&layout=compact&theme=react&hide_border=true&hide=Jupyter%20Notebook,Roff,CMake,C,C++" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="0xharkirat's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xharkirat&langs_count=8&layout=compact&theme=react&hide_border=true&hide=Jupyter%20Notebook,Roff,CMake,C,c%2B%2B" height="192px"/></a>
  
  </p>
   <br/>
