@@ -1,3 +1,9 @@
+|Why | How| What   |
+| :------------: | :------------: | :------------: |
+|Creating Better technologies for the GREATER GOOD of Humanity.   | By learning, collaborating, and contributing more and more technologies.   | Started as a Web Developer, Currently building Mobile Apps with Flutter.  |
+
+
+
 <div align="center">
 <img src="images/banner.gif" width="400px" />
 <br>
