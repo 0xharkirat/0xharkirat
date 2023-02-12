@@ -1,5 +1,6 @@
 # **Hello World <img src="images/Earth.gif" width="24px">!** 
-<p align="left"><img src="images/terminal.gif" alt="Typing SVG" /></p>
+<p align="left"><img src="images/terminal.gif" alt="Typing SVG" />
+<img src="images/banner.gif" /></p>
 
 
 
@@ -13,8 +14,9 @@ https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=15
 
 <hr>
 
-<div align="center">
-<img src="images/banner.gif" width="400px" />
+
+
+
 <br>
 <br>
 <hr />
