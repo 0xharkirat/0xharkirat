@@ -16,7 +16,7 @@
  <div align="left">
   
  
- <details show >
+ <details open >
   <summary> <h1> Technologies in Learning <img src="images/writing-hand-joypixels.gif" width="24px">! </h1> </summary>
 
 
