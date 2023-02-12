@@ -52,13 +52,13 @@
  <hr>
  
   
-<h2 align="center">🔥Stats🔥</h2>
+<h2 align="left">🔥Stats🔥</h2>
   
-|  |
+|   |
 | :------------ |
-|  <img  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=0xharkirat&theme=react&border=61dafb&hide_border=true" alt="0xharkirat" />   |
-|        <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=0xharkirat&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
- | <img width="50%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xharkirat&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,jupyter%20notebook,c%2B%2B,CMake,C&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> |
+|  <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=0xharkirat&theme=react&border=61dafb&hide_border=true" alt="0xharkirat" />   |
+|        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=0xharkirat&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+ | <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xharkirat&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda,jupyter%20notebook,c%2B%2B,CMake,C&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" /> |
  
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=0xharkirat&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
 
