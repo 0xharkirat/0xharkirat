@@ -12,11 +12,7 @@
 <hr>
 <div align="center">
  <img src="images/banner.gif"/>
- [<kbd> <br> CV-Website (Reload 2-3 times) <br> </kbd>][Link]
 
-
- 
- [Link]: https://0xharkirat.github.io/harkiratsingh-cv/
 <br>
 <br>
 <hr />
@@ -80,5 +76,11 @@
 ![](https://github.com/0xharkirat/0xharkirat/blob/output/github-contribution-grid-snake.svg)
  
  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=0xharkirat.0xharkirat">
+ 
+  [<kbd> <br> CV-Website (Reload 2-3 times) <br> </kbd>][Link]
+
+
+ 
+  [Link]: https://0xharkirat.github.io/harkiratsingh-cv/
  
 </div>
