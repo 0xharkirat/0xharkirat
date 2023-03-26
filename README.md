@@ -77,7 +77,7 @@
  
  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=0xharkirat.0xharkirat">
  
-  [<kbd> <br> CV-Website (Reload 2-3 times) <br> </kbd>][Link]
+  [<kbd> <br> Go to CV-Website (Reload 2-3 times) <br> </kbd>][Link]
 
 
  
