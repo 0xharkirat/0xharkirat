@@ -1,12 +1,13 @@
 name: Greet User
 
 on:
-  
-  workflow_dispatch:
-  
-  
   schedule:
     - cron: '0 0 * * *'
+  workflow_dispatch:
+    inputs:
+      username:
+        description: 'The name of the user to greet'
+        required: true
 
 jobs:
   greet:
@@ -14,13 +15,14 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
-      - name: Set up Node.js
-        uses: actions/setup-node@v1
-        with:
-          node-version: '14.x'
       - name: Get User Name
-        uses: anmol098/name-to-github-username@v1.0
         id: get_username
+        run: |
+          curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+              "https://api.github.com/users/${{ github.event.inputs.username }}" \
+              | jq -r '.name // .login' \
+              | tr '[:upper:]' '[:lower:]' \
+              | awk '{print substr($0, 0, 1) toupper(substr($0, 2))}'
       - name: Update README
         run: |
           sed -i "1s/^/Hello ${steps.get_username.outputs.username}! Welcome to my GitHub profile. :wave:\n\n/" README.md
