@@ -3,11 +3,6 @@ name: Greet User
 on:
   schedule:
     - cron: '0 0 * * *'
-  workflow_dispatch:
-    inputs:
-      username:
-        description: 'The name of the user to greet'
-        required: true
 
 jobs:
   greet:
@@ -15,17 +10,9 @@ jobs:
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v2
-      - name: Get User Name
-        id: get_username
-        run: |
-          curl -s -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-              "https://api.github.com/users/${{ github.event.inputs.username }}" \
-              | jq -r '.name // .login' \
-              | tr '[:upper:]' '[:lower:]' \
-              | awk '{print substr($0, 0, 1) toupper(substr($0, 2))}'
       - name: Update README
         run: |
-          sed -i "1s/^/Hello ${steps.get_username.outputs.username}! Welcome to my GitHub profile. :wave:\n\n/" README.md
+          sed -i "1s/^/Hello there! Welcome to my GitHub profile. :wave:\n\n/" README.md
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
           git commit -m "Added greeting message to README"
