@@ -1,3 +1,5 @@
+Hello there! Welcome to my GitHub profile. :wave:
+
 # **Hello World <img src="images/Earth.gif" width="24px">!** 
 
 
