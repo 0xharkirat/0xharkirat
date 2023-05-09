@@ -14,7 +14,7 @@ Hello there! Welcome to my GitHub profile. :wave:
 <div align="center">
  <img src="images/banner.gif"/>
  
- <img src="[images/banner.gif](https://share.text-image.com/bf949bfc1bd49757)"/>
+ <img src="https://share.text-image.com/bf949bfc1bd49757"/>
  
  
   
