@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter, Firebase, Python, C++**
 
-- 👨‍💻 My Portfolio <a href="https://0xharkirat.com" target="_blank"> 0xharkirat.com</a>
+- 👨‍💻 My Portfolio <a href="https://0xharkirat.com" target="_blank" rel="noreferrer"> 0xharkirat.com</a>
 
 - 💬 Ask me about **Mobile Dev, Web Dev, NFTs,**
 
