@@ -1,83 +1,32 @@
+<h1 align="center">Hi 👋, I'm Harkirat</h1>
+<h3 align="center">I'm Learning & creating better technologies for the greater good of Humanity.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xharkirat&label=Profile%20views&color=0e75b6&style=flat" alt="0xharkirat" /> </p>
 
-# **Hello World <img src="images/Earth.gif" width="24px">!** 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xharkirat" alt="0xharkirat" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/0xharkirat" target="blank"><img src="https://img.shields.io/twitter/follow/0xharkirat?logo=twitter&style=for-the-badge" alt="0xharkirat" /></a> </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=32&pause=1500&width=500&lines=I+am+Harkirat%2C+%F0%9F%91%B3%E2%80%8D%E2%99%82%EF%B8%8F;a+developer%2C+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+;a+learner%2C+%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93;a+hacker%2C+%F0%9F%A5%B7;and+most+importantly+;kind+human+%F0%9F%98%8A%F0%9F%98%87"/>
+- 🌱 I’m currently learning **Flutter, Firebase, Python, C++**
 
+- 👨‍💻 My Portfolio [0xharkirat.com](0xharkirat.com)
 
-|Why | How| What   |
-| :------------: | :------------: | :------------: |
-|Creating Better technologies for the GREATER GOOD of Humanity.   | By learning, collaborating, and contributing more and more technologies.   | Started as a Web Developer, Currently building Mobile Apps with Flutter.  |
+- 💬 Ask me about **Mobile Dev, Web Dev, NFTs,**
 
-<hr>
-<div align="center">
- <img src="images/banner.gif"/>
-   
- <div align="left">
-  
- 
- <details open >
-  <summary> <h1> Technologies in Learning <img src="images/writing-hand-joypixels.gif" width="24px">! </h1> </summary>
+- 📫 How to reach me **info.sandhukirat23@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xharkirat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xharkirat" height="30" width="40" /></a>
+<a href="https://instagram.com/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xharkirat" height="30" width="40" /></a>
+</p>
 
-###  I believe and honestly feel that learning is an infinite process, and with technology advancing daily, true learner is always learning.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xharkirat&show_icons=true&locale=en&layout=compact" alt="0xharkirat" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xharkirat&show_icons=true&locale=en" alt="0xharkirat" /></p>
 
-|                                                        Technology Icon                                                        | Technology Name | Learning Source                                                                                                    |
-| :---------------------------------------------------------------------------------------------------------------------------: | :-------------: | ------------------------------------------------------------------------------------------------------- |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"> |      HTML       | CS50 (Harvard), CS50W (Harvard), The Complete Web Development Bootcamp by Dr. Angela Yu (Udemy). |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"> |       CSS       |CS50 (Harvard), CS50W (Harvard), The Complete Web Development Bootcamp by Dr. Angela Yu (Udemy).  |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"> |    Bootstrap    | CS50 (Harvard), CS50W (Harvard), The Complete Web Development Bootcamp by Dr. Angela Yu (Udemy). |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"> |   Tailwind CSS  | Code With Harry (Youtube).|
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png"> |    Firebase     | The Complete Flutter Development Bootcamp with Dart by Dr. Angela Yu (Udemy).  |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"> |   JavaScript    | CS50 (Harvard), CS50W (Harvard), The Complete Web Development Bootcamp by Dr. Angela Yu (Udemy). |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"> |      React      | CS50 (Harvard), CS50W (Harvard), The Complete Web Development Bootcamp by Dr. Angela Yu (Udemy), Code With Harry (Youtube). |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> |     Node.js     | CS50 (Harvard), CS50W (Harvard), The Complete Web Development Bootcamp by Dr. Angela Yu (Udemy). |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png"> |     Express     | CS50 (Harvard), CS50W (Harvard), The Complete Web Development Bootcamp by Dr. Angela Yu (Udemy). |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"> |      Java       | University course - Semester 1 - Introduction to programming with Clara World. |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"> |        C        | CS50 (Harvard) |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png"> |       C++       | University Course - Semester 2 - Object Oriented Programming. |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png"> |     Python      | CS50 (Harvard), CS50W (Harvard), Code With Harry (Youtube). #100daysofcode|
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png"> |      Dart       |The Complete Flutter Development Bootcamp with Dart by Dr. Angela Yu (Udemy).|
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/186150365-da1eccce-6201-487c-8649-45e9e99435fd.png"> |     Flutter     |The Complete Flutter Development Bootcamp with Dart by Dr. Angela Yu (Udemy).|
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png"> |     mongoDB     |CS50 (Harvard), CS50W (Harvard), The Complete Web Development Bootcamp by Dr. Angela Yu (Udemy). |
-| <img height="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png"> |      MySQL      | University Course - Semester 2 - Database, Design & Development. |
-
-  
- </div>
- 
- </details>
- 
- <hr>
- 
-  
-<h1 align="left">🔥Stats🔥</h1>
-  
-<p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="=0xharkirat's streakk" src="https://streak-stats.demolab.com/?user=0xharkirat&theme=react&hide_border=true"/>
-    </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="0xharkirat's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=0xharkirat&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="0xharkirat's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=0xharkirat&langs_count=8&layout=compact&theme=react&hide_border=true&hide=Jupyter%20Notebook,Roff,CMake,C,c%2B%2B" height="192px"/></a>
- 
- </p>
-  <br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- 
-![](https://github.com/0xharkirat/0xharkirat/blob/output/github-contribution-grid-snake.svg)
- 
- 
-                                                                             
- 
- <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=0xharkirat.0xharkirat">
- 
-  [<kbd> <br> Go to CV-Website (Reload 2-3 times) <br> </kbd>][Link]
-
-
- 
-  [Link]: https://0xharkirat.github.io/harkiratsingh-cv/
- 
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xharkirat&" alt="0xharkirat" /></p>
