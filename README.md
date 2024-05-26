@@ -11,6 +11,8 @@
 
 - 👨‍💻 My Portfolio <a href="https://0xharkirat.com" target="_blank" rel="noreferrer"> 0xharkirat.com</a>
 
+- 👨🏻‍🏫 <a href="bit.ly/4dEIdZc" target="_blank" rel="noreferrer"> My story</a>
+
 - 💬 Ask me about **Mobile Dev, Web Dev, NFTs,**
 
 - 📫 How to reach me **info.sandhukirat23@gmail.com**
