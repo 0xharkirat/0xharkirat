@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/0xharkirat" target="blank"><img src="https://img.shields.io/twitter/follow/0xharkirat?logo=twitter&style=for-the-badge" alt="0xharkirat" /></a> </p>
 
-- 👨‍💻 My online CV <a href="https://0xharkirat.com" target="_blank" rel="noreferrer"> read.cv/0xharkirat</a>
+- 👨‍💻 My online CV <a href="https://read.cv/0xharkirat" target="_blank" rel="noreferrer"> read.cv/0xharkirat</a>
 
 - 👨🏻‍🏫 <a href="https://bit.ly/4dEIdZc" target="_blank" rel="noreferrer"> My story</a>
 
@@ -28,15 +28,12 @@
 ## Skills
 ### Programming
 - Current:
-  - Flutter / Dart • JavaScript  
-  - React.Js • Next.Js  
+  - Flutter / Dart • JavaScript • React.Js • Next.Js  
 
 - Familiar:
-  - Node.Js • HTML / CSS  
-  - Kotlin • Swift • Python • C#  
-  - Solidity  
+  - Node.Js • HTML / CSS • Kotlin • Swift • Python • C# • Solidity  
 
-### Technology
+### Technologies
 - REST API • MySQL / MSSQL  
 - SiriKit • Git / GitHub • Firebase  
 - Azure • Google Cloud • CI / CD  
