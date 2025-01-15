@@ -20,7 +20,7 @@
 
 ### Open Source Contributions
 
-- [PR #248](https://github.com/nank1ro/flutter-shadcn-ui/pull/248) - Add Theme Color Selector for Dynamic Component Previews in Docs
+- [PR #252](https://github.com/nank1ro/flutter-shadcn-ui/pull/252) - Add Theme Color Selector for Dynamic Component Previews in Docs
 - [PR #2913](https://github.com/codemagic-ci-cd/codemagic-docs/pull/2913) - Add troubleshooting section for Flutter build error with localizations
 - [PR #6](https://github.com/monterail/intelligence/pull/6) - docs: add iOS configuration instructions and minimum version requirement
 - [PR #45](https://github.com/sharmadhiraj/installed_apps/pull/45) - Add Named Parameter Method `getInstalledAppsNamed` for Improved Usability
