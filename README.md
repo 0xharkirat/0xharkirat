@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harkirat</h1>
-<h3 align="center">I'm Learning & creating better technologies for the greater good of Humanity.</h3>
+<h3 align="center">"Fail fast, build more, and keep learning better technologies."
+
+Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0xharkirat&label=Profile%20views&color=0e75b6&style=flat" alt="0xharkirat" /> </p>
 
