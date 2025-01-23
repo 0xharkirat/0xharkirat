@@ -53,8 +53,10 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xharkirat&show_icons=true&locale=en&layout=compact" alt="0xharkirat" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xharkirat&show_icons=true&locale=en" alt="0xharkirat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0xharkirat&" alt="0xharkirat" /></p>
+## At Last, to keep myself humble, I always remember:
+
+![“Memento Homo”  Remember, you are only a man](https://github.com/user-attachments/assets/b65aeb80-379b-40e3-8ebb-7731c8e9cf12)
