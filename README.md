@@ -22,6 +22,7 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 ### Open Source Contributions
 
+- [PR #163443](https://github.com/flutter/flutter/issues/163443) - Proposal: Set debugShowCheckedModeBanner Default to false
 - [PR #252](https://github.com/nank1ro/flutter-shadcn-ui/pull/252) - Add Theme Color Selector for Dynamic Component Previews in Docs
 - [PR #2913](https://github.com/codemagic-ci-cd/codemagic-docs/pull/2913) - Add troubleshooting section for Flutter build error with localizations
 - [PR #6](https://github.com/monterail/intelligence/pull/6) - docs: add iOS configuration instructions and minimum version requirement
