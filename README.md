@@ -29,6 +29,23 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 - [PR #45](https://github.com/sharmadhiraj/installed_apps/pull/45) - Add Named Parameter Method `getInstalledAppsNamed` for Improved Usability
 - ...many more
 
+### Projects
+- [live_darbar](https://github.com/0xharkirat/live_darbar) - A very simple yet powerful & advanced app for live kirtan from Darbar Sahib
+- [polar-dart](https://github.com/0xharkirat/polar-dart) - Polar SDK for Dart
+- [anvaad-py](https://github.com/0xharkirat/anvaad-py) - Transliteration toolkit for Gurmukhi ASCII to Unicode, romanized and other character sets
+- [calmendar](https://github.com/0xharkirat/calmendar) - A calm & clean calendar app - made with Flutter. Original design by @inkko44 (x.com/inkko44)
+- [its_urgent](https://github.com/0xharkirat/its_urgent) - GSoC'24 Project
+- See more here: https://read.cv/0xharkirat or [my repositories](https://github.com/0xharkirat?page=1&tab=repositories)
+
+### YouTube Videos
+- [Flutter Playlist](https://youtube.com/playlist?list=PLLx2TfaNTPhxjIc4Ydm2CYhTxz9cPH-hy&si=6mbn0qD-Unvdhj5o)
+- [My Tabla Playing Videos](https://youtube.com/playlist?list=PLLx2TfaNTPhyQPAIfEnib4MfXppYtYVyB&si=4leUaIK9bhv-LcFO)
+
+### Recent Tweets
+- [Recreating calm & clean calendar app](https://x.com/0xharkirat/status/1892431921483042983)
+- [Flutter `shadcn_ui` package contribution](https://x.com/nank1ro/status/1881306971091136987)
+- [Syncing `ListView` & `PageView` challenge](https://x.com/0xharkirat/status/1890731339424403488)
+
 ### Open Source Achievements
 <img src="https://github.com/user-attachments/assets/b0f4aa85-ab08-4370-9109-88219a76f6aa" alt="GSoC Verification Letter" height="500">
 <img src="https://github.com/user-attachments/assets/76e4d811-9e7a-48fa-9da3-9c4fe553c02b" alt="completion_certificate_2024_contributor" width="500">
@@ -50,10 +67,6 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 ### Soft Skills
 - Adaptable • Agile • Abstract Thinker  
 - Communicative • Quick Learner • Techie  
-
-
-
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xharkirat&show_icons=true&locale=en" alt="0xharkirat" /></p>
