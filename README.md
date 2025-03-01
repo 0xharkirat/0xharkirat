@@ -9,7 +9,7 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 - 👨‍💻 My online CV <a href="https://read.cv/0xharkirat" target="_blank" rel="noreferrer"> read.cv/0xharkirat</a>
 
-- 🌹 [Open to Dating](dateharkirat@gmail.com) (only genuine discussions - New South Wales, Australia)
+- 🌹 [Open to Dating](mailto:dateharkirat@gmail.com) (only genuine discussions - New South Wales, Australia)
 
 
 - 👨🏻‍🏫 <a href="https://bit.ly/4dEIdZc" target="_blank" rel="noreferrer"> My Brief Story</a> (Till Year 10)
