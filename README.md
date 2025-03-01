@@ -9,16 +9,17 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 - 👨‍💻 My online CV <a href="https://read.cv/0xharkirat" target="_blank" rel="noreferrer"> read.cv/0xharkirat</a>
 
-- 👨🏻‍🏫 <a href="https://bit.ly/4dEIdZc" target="_blank" rel="noreferrer"> My story</a>
+- 🌹 [Open to Dating](dateharkirat@gmail.com) (only genuine discussions - New South Wales, Australia)
+
+
+- 👨🏻‍🏫 <a href="https://bit.ly/4dEIdZc" target="_blank" rel="noreferrer"> My Brief Story</a> (Till Year 10)
 
 - 💬 Ask me about **Mobile Dev, Web Dev, NFTs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xharkirat" height="30" width="40" /></a>
+<a href="https://twitter.com/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xharkirat" height="30" width="40" /> X - Twitter (Preferred)</a>
 <a href="https://linkedin.com/in/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xharkirat" height="30" width="40" /></a>
-<a href="https://instagram.com/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="0xharkirat" height="30" width="40" /></a>
-</p>
 
 ### Open Source Contributions
 
