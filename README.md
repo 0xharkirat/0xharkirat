@@ -9,9 +9,6 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 - 👨‍💻 My online CV <a href="https://read.cv/0xharkirat" target="_blank" rel="noreferrer"> read.cv/0xharkirat</a>
 
-- 🌹 [Open to Dating](mailto:dateharkirat@gmail.com) (only genuine discussions - New South Wales, Australia)
-
-
 - 👨🏻‍🏫 <a href="https://bit.ly/4dEIdZc" target="_blank" rel="noreferrer"> My Brief Story</a> (Till Year 10)
 
 - 💬 Ask me about **Mobile Dev, Web Dev, NFTs**
@@ -31,6 +28,7 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 - ...many more
 
 ### Projects
+- [ui_avatar](https://pub.dev/packages/ui_avatar) - A simple and customizable native Flutter widget to generate beautiful text-based avatars using initials, no api needed.
 - [live_darbar](https://github.com/0xharkirat/live_darbar) - A very simple yet powerful & advanced app for live kirtan from Darbar Sahib
 - [polar-dart](https://github.com/0xharkirat/polar-dart) - Polar SDK for Dart
 - [anvaad-py](https://github.com/0xharkirat/anvaad-py) - Transliteration toolkit for Gurmukhi ASCII to Unicode, romanized and other character sets
@@ -71,6 +69,8 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xharkirat&show_icons=true&locale=en" alt="0xharkirat" /></p>
+
+- 🌹 [Open to Dating](mailto:dateharkirat@gmail.com) (only genuine discussions - New South Wales, Australia)
 
 ## At Last, to keep myself humble, I always remember:
 
