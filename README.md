@@ -19,8 +19,8 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 <a href="https://linkedin.com/in/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xharkirat" height="30" width="40" /></a>
 
 ### Open Source Contributions
-
-- [PR #163443](https://github.com/flutter/flutter/issues/163443) - Proposal: Set debugShowCheckedModeBanner Default to false
+- [PR #136](https://github.com/supabase-community/flutter-auth-ui/pull/136) - Add `SupaAvatar` widget for displaying & editing user profile avatars.
+- [PR #163443](https://github.com/flutter/flutter/issues/163443) - Proposal: Set `debugShowCheckedModeBanner` Default to `false`
 - [PR #252](https://github.com/nank1ro/flutter-shadcn-ui/pull/252) - Add Theme Color Selector for Dynamic Component Previews in Docs
 - [PR #2913](https://github.com/codemagic-ci-cd/codemagic-docs/pull/2913) - Add troubleshooting section for Flutter build error with localizations
 - [PR #6](https://github.com/monterail/intelligence/pull/6) - docs: add iOS configuration instructions and minimum version requirement
