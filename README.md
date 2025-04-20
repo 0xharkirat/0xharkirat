@@ -28,6 +28,7 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 - ...many more
 
 ### Projects
+- [rough_notation](https://roughnotation-flutter.web.app/) - A lightweight Flutter package to create animated, hand-drawn-style annotations on widgets.
 - [ui_avatar](https://pub.dev/packages/ui_avatar) - A simple and customizable native Flutter widget to generate beautiful text-based avatars using initials, no api needed.
 - [live_darbar](https://github.com/0xharkirat/live_darbar) - A very simple yet powerful & advanced app for live kirtan from Darbar Sahib
 - [polar-dart](https://github.com/0xharkirat/polar-dart) - Polar SDK for Dart
