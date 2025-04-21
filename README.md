@@ -7,6 +7,8 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 <p align="left"> <a href="https://twitter.com/0xharkirat" target="blank"><img src="https://img.shields.io/twitter/follow/0xharkirat?logo=twitter&style=for-the-badge" alt="0xharkirat" /></a> </p>
 
+- 💧 My website <a href="https://0xharkirat.com" target="_blank" rel="noreferrer"> 0xharkirat.com</a>
+
 - 👨‍💻 My online CV <a href="https://read.cv/0xharkirat" target="_blank" rel="noreferrer"> read.cv/0xharkirat</a>
 
 - 👨🏻‍🏫 <a href="https://bit.ly/4dEIdZc" target="_blank" rel="noreferrer"> My Brief Story</a> (Till Year 10)
