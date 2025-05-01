@@ -71,9 +71,9 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 - Communicative • Quick Learner • Techie  
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xharkirat&show_icons=true&locale=en" alt="0xharkirat" /></p>
+[![{{NAME}}'s github stats](https://github-readme-stats.vercel.app/api?username={{0xharkirat}}&amp;theme=dark)](https://github.com/{{0xharkirat}}/github-readme-stats)
 
-- 🌹 [Open to Dating](mailto:dateharkirat@gmail.com) (only genuine discussions - New South Wales, Australia)
+
 
 ## At Last, to keep myself humble, I always remember:
 
