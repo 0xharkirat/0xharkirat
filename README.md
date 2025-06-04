@@ -9,8 +9,6 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 - 💧 My website <a href="https://0xharkirat.com" target="_blank" rel="noreferrer"> 0xharkirat.com</a>
 
-- 👨‍💻 My online CV <a href="https://read.cv/0xharkirat" target="_blank" rel="noreferrer"> read.cv/0xharkirat</a>
-
 - 👨🏻‍🏫 <a href="https://bit.ly/4dEIdZc" target="_blank" rel="noreferrer"> My Brief Story</a> (Till Year 10)
 
 - 💬 Ask me about **Mobile Dev, Web Dev, NFTs**
