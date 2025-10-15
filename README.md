@@ -16,6 +16,8 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 <a href="https://twitter.com/TalesOfHark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xharkirat" height="30" width="40" /> X - Twitter (Preferred)</a>
 <a href="https://linkedin.com/in/talesofhark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xharkirat" height="30" width="40" /></a>
 
+[![Hark's github stats](https://github-readme-stats.vercel.app/api?username=0xharkirat&amp;theme=dark)](https://github.com/0xharkirat/github-readme-stats)
+
 ### Open Source Contributions
 - [PR #136](https://github.com/supabase-community/flutter-auth-ui/pull/136) - Add `SupaAvatar` widget for displaying & editing user profile avatars.
 - [PR #163443](https://github.com/flutter/flutter/issues/163443) - Proposal: Set `debugShowCheckedModeBanner` Default to `false`
