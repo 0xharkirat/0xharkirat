@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harkirat</h1>
+<h1 align="center">Hi 👋, I'm Hark</h1>
 <h3 align="center">"Fail fast, build more, and keep learning better technologies."
 
 Currently exploring the land of kangaroos 🇦🇺...</h3>
@@ -7,16 +7,14 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 
 <p align="left"> <a href="https://twitter.com/0xharkirat" target="blank"><img src="https://img.shields.io/twitter/follow/0xharkirat?logo=twitter&style=for-the-badge" alt="0xharkirat" /></a> </p>
 
-- 💧 My website <a href="https://0xharkirat.com" target="_blank" rel="noreferrer"> 0xharkirat.com</a>
-
-- 👨🏻‍🏫 <a href="https://bit.ly/4dEIdZc" target="_blank" rel="noreferrer"> My Brief Story</a> (Till Year 10)
+- 💧 My website <a href="https://talesofhark.com" target="_blank" rel="noreferrer"> talesofhark.com</a>
 
 - 💬 Ask me about **Mobile Dev, Web Dev, NFTs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xharkirat" height="30" width="40" /> X - Twitter (Preferred)</a>
-<a href="https://linkedin.com/in/0xharkirat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xharkirat" height="30" width="40" /></a>
+<a href="https://twitter.com/TalesOfHark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xharkirat" height="30" width="40" /> X - Twitter (Preferred)</a>
+<a href="https://linkedin.com/in/talesofhark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xharkirat" height="30" width="40" /></a>
 
 ### Open Source Contributions
 - [PR #136](https://github.com/supabase-community/flutter-auth-ui/pull/136) - Add `SupaAvatar` widget for displaying & editing user profile avatars.
