@@ -1,5 +1,5 @@
 ## Welcome to the profile of "His Holy Harkness" 😇
-<h3 align="center">"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</h3>
+*"We are what we repeatedly do. Excellence, then, is not an act, but a habit."*
 
 - 🦅 I'm currently building [SSW EagleEye](https://ssweagleeye.com)
 - 🌱 All things .NET, Azure, Angular & Flutter
