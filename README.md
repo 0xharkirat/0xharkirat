@@ -26,6 +26,10 @@
   </picture>
 </a>
 
+![My GitHub Game](game.gif)
+
+Thanks [@czl9707](https://github.com/czl9707) for [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) above
+
 ## Open Source Contributions
 - [PR #136](https://github.com/supabase-community/flutter-auth-ui/pull/136) - Add `SupaAvatar` widget for displaying & editing user profile avatars.
 - [PR #163443](https://github.com/flutter/flutter/issues/163443) - Proposal: Set `debugShowCheckedModeBanner` Default to `false`
@@ -55,9 +59,7 @@
 <img src="https://github.com/user-attachments/assets/76e4d811-9e7a-48fa-9da3-9c4fe553c02b" alt="completion_certificate_2024_contributor" width="500">
 
 
-![My GitHub Game](game.gif)
 
-Thanks [@czl9707](https://github.com/czl9707) for [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) above
 
 ## At Last, to keep myself humble, I always remember:
 
