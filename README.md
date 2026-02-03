@@ -3,10 +3,11 @@
 
 - 🦅 I'm currently building [SSW EagleEye](https://ssweagleeye.com)
 - 🌱 All things .NET, Azure, Angular & Flutter
-- 🧪 I am also learning [PlayWright](https://playwright.dev/)
+- 🧪 I am also learning [Playwright](https://playwright.dev/)
 - 👯 I'm looking to collaborate on tooling to help our community grow
 - 💻 I work at SSW [ssw.com.au/people/hark-singh](https://www.ssw.com.au/people/hark-singh)
-- 🐤 I'm on Twitter as [@talesofhark](https://twitter.com/talesofhark) 
+- 🐤 I'm on Twitter as [@talesofhark](https://twitter.com/talesofhark)
+- 👔 LinkedIn as [@talesofhark](https://linkedin.com/in/talesofhark) 
 - 📺 and YouTube [@talesofhark](https://www.youtube.com/@talesofhark)
 
 ## GitHub Stats
