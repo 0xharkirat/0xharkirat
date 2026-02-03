@@ -1,24 +1,31 @@
-<h1 align="center">Hi 👋, I'm Hark</h1>
-<h3 align="center">"Fail fast, build more, and keep learning better technologies."
+## Welcome to the profile of "His Holy Harkness" 😇
+<h3 align="center">"We are what we repeatedly do. Excellence, then, is not an act, but a habit."</h3>
 
-Currently exploring the land of kangaroos 🇦🇺...</h3>
+- 🦅 I'm currently building [SSW EagleEye](https://ssweagleeye.com)
+- 🌱 All things .NET, Azure, Angular & Flutter
+- 🧪 I am also learning [PlayWright](https://playwright.dev/)
+- 👯 I'm looking to collaborate on tooling to help our community grow
+- 💻 I work at SSW [ssw.com.au/people/hark-singh](https://www.ssw.com.au/people/hark-singh)
+- 🐤 I'm on Twitter as [@talesofhark](https://twitter.com/talesofhark) 
+- 📺 and YouTube [@talesofhark](https://www.youtube.com/@talesofhark)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xharkirat&label=Profile%20views&color=0e75b6&style=flat" alt="0xharkirat" /> </p>
+## GitHub Stats
 
-<p align="left"> <a href="https://twitter.com/0xharkirat" target="blank"><img src="https://img.shields.io/twitter/follow/0xharkirat?logo=twitter&style=for-the-badge" alt="0xharkirat" /></a> </p>
+<a href='https://github.com/0xharkirat'>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=0xharkirat&show_icons=true&count_private=true">
+    <img alt="0xharkirat's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xharkirat&show_icons=true&theme=dark&count_private=true">
+  </picture>
+</a>
 
-- 💧 My website <a href="https://talesofhark.com" target="_blank" rel="noreferrer"> talesofhark.com</a>
+<a href='https://github.com/0xharkirat'>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xharkirat&layout=compact">
+    <img alt="0xharkirat's GitHub Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xharkirat&theme=dark&layout=compact">
+  </picture>
+</a>
 
-- 💬 Ask me about **Mobile Dev, Web Dev, NFTs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/TalesOfHark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0xharkirat" height="30" width="40" /> X - Twitter (Preferred)</a>
-<a href="https://linkedin.com/in/talesofhark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="0xharkirat" height="30" width="40" /></a>
-
-[![Hark's github stats](https://github-readme-stats.vercel.app/api?username=0xharkirat&amp;theme=dark)](https://github.com/0xharkirat/github-readme-stats)
-
-### Open Source Contributions
+## Open Source Contributions
 - [PR #136](https://github.com/supabase-community/flutter-auth-ui/pull/136) - Add `SupaAvatar` widget for displaying & editing user profile avatars.
 - [PR #163443](https://github.com/flutter/flutter/issues/163443) - Proposal: Set `debugShowCheckedModeBanner` Default to `false`
 - [PR #252](https://github.com/nank1ro/flutter-shadcn-ui/pull/252) - Add Theme Color Selector for Dynamic Component Previews in Docs
@@ -27,7 +34,7 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 - [PR #45](https://github.com/sharmadhiraj/installed_apps/pull/45) - Add Named Parameter Method `getInstalledAppsNamed` for Improved Usability
 - ...many more
 
-### Projects
+## Projects
 - [rough_notation](https://roughnotation-flutter.web.app/) - A lightweight Flutter package to create animated, hand-drawn-style annotations on widgets.
 - [ui_avatar](https://pub.dev/packages/ui_avatar) - A simple and customizable native Flutter widget to generate beautiful text-based avatars using initials, no api needed.
 - [live_darbar](https://github.com/0xharkirat/live_darbar) - A very simple yet powerful & advanced app for live kirtan from Darbar Sahib
@@ -37,41 +44,19 @@ Currently exploring the land of kangaroos 🇦🇺...</h3>
 - [its_urgent](https://github.com/0xharkirat/its_urgent) - GSoC'24 Project
 - See more here: https://read.cv/0xharkirat or [my repositories](https://github.com/0xharkirat?page=1&tab=repositories)
 
-### YouTube Videos
+## YouTube Videos
 - [Flutter Playlist](https://youtube.com/playlist?list=PLLx2TfaNTPhxjIc4Ydm2CYhTxz9cPH-hy&si=6mbn0qD-Unvdhj5o)
 - [My Tabla Playing Videos](https://youtube.com/playlist?list=PLLx2TfaNTPhyQPAIfEnib4MfXppYtYVyB&si=4leUaIK9bhv-LcFO)
 
-### Recent Tweets
-- [Recreating calm & clean calendar app](https://x.com/0xharkirat/status/1892431921483042983)
-- [Flutter `shadcn_ui` package contribution](https://x.com/nank1ro/status/1881306971091136987)
-- [Syncing `ListView` & `PageView` challenge](https://x.com/0xharkirat/status/1890731339424403488)
 
-### Open Source Achievements
+## Open Source Achievements
 <img src="https://github.com/user-attachments/assets/b0f4aa85-ab08-4370-9109-88219a76f6aa" alt="GSoC Verification Letter" height="500">
 <img src="https://github.com/user-attachments/assets/76e4d811-9e7a-48fa-9da3-9c4fe553c02b" alt="completion_certificate_2024_contributor" width="500">
 
 
-## Skills
-### Programming
-- Current:
-  - Flutter / Dart • JavaScript • React.Js • Next.Js  
+![My GitHub Game](game.gif)
 
-- Familiar:
-  - Node.Js • HTML / CSS • Kotlin • Swift • Python • C# • Solidity  
-
-### Technologies
-- REST API • MySQL / MSSQL  
-- SiriKit • Git / GitHub • Firebase  
-- Azure • Google Cloud • CI / CD  
-
-### Soft Skills
-- Adaptable • Agile • Abstract Thinker  
-- Communicative • Quick Learner • Techie  
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xharkirat&show_icons=true&locale=en" alt="0xharkirat" /></p>
-
-
+Thanks [@czl9707](https://github.com/czl9707) for [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) above
 
 ## At Last, to keep myself humble, I always remember:
 
