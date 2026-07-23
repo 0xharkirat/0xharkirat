@@ -21,10 +21,6 @@
 - 🥁 Tabla and more on Instagram Reels [@talesofhark](https://www.instagram.com/talesofhark/reels/)
 - 💍 Single, open to a life-long commit 😅
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xharkirat/0xharkirat/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Contribution graph" src="https://raw.githubusercontent.com/0xharkirat/0xharkirat/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## Tabla
 
