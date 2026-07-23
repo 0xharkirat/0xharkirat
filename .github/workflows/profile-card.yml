@@ -1,0 +1,54 @@
+name: Refresh profile
+
+on:
+  schedule:
+    - cron: "0 19 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - build_card.py
+      - update_readme.py
+      - portrait-frames.json
+      - .github/workflows/profile-card.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Both scripts are stdlib only, so there is nothing to install. make_portrait.py
+      # is not run here: it needs Pillow and only matters when the photo changes.
+      #
+      # Without PROFILE_STATS_TOKEN the commit and contribution rows stay blank; the
+      # rest of the card still builds from the public REST API.
+      - name: Build card-dark.svg and card-light.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+        run: python build_card.py
+
+      # Leaves README.md untouched if the search API is unavailable, so a bad day for
+      # the API cannot blank the section.
+      - name: Refresh the generated README sections
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          USER_NAME: ${{ github.repository_owner }}
+        run: python update_readme.py
+
+      - name: Commit whatever changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add card-dark.svg card-light.svg README.md
+          git commit -m "chore: refresh profile card and contributions" || echo "No changes to commit"
+          git push
