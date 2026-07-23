@@ -51,10 +51,10 @@
 ## Projects
 
 <!-- projects:start -->
-- [open-obsbot-remote](https://github.com/0xharkirat/open-obsbot-remote) `v2.5.0`
+- [vimer](https://github.com/0xharkirat/vimer) `v1.0.1` - A keyboard-first timer for macOS: natural-language timers, vim motion keys. Built with Flutter
+- [open-obsbot-remote](https://github.com/0xharkirat/open-obsbot-remote) `v2.5.0` - Control multiple OBSBOT cameras from a phone, browser, or Mac on your local network
 - [Digital-Pothi](https://github.com/0xharkirat/Digital-Pothi) - Open-source Gurbani presenter with on-device AI that follows kirtan and paath live. STTM-desktop-class presenting, fully local: bundled corpus, no network APIs
 - [dart_autogui](https://github.com/0xharkirat/dart_autogui) - Dart version of pyautogui. FFI in C
-- [vimer](https://github.com/0xharkirat/vimer) `v1.0.1` - A keyboard-first timer for macOS: natural-language timers, vim motion keys. Built with Flutter
 - [downpour](https://github.com/0xharkirat/downpour) `v0.1.1` - Open-source video downloader for macOS, Windows, and Linux. Powered by yt-dlp
 - [humation_flutter](https://github.com/0xharkirat/humation_flutter) - [site](https://humation-flutter.vercel.app)
 - [tinacms-fumadocs-pkg](https://github.com/0xharkirat/tinacms-fumadocs-pkg) - TinaCMS visual-editing adapter for Fumadocs (Next.js App Router)
