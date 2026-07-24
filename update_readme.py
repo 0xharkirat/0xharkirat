@@ -53,7 +53,10 @@ EXCLUDE_REPOS = {
     "bhai-hira-singh-translation", "hark-tina-blog", "hark-blog",
     "linkedin-title-automation", "SSW.Email.Templates", "yakshaver_mobile_poc",
     "flutter_riverpod_clock", "its_urgent_poc_public", "harkiratsingh-cv",
-    "ragi_duties.api",
+    "ragi_duties.api", "battery", "ragi_duties.reader",
+    # early coursework / game toys - described, so the gate lets them through, but they
+    # are not portfolio work
+    "MyFirstApp", "pong", "purbleplace", "sushi-go-round", "wiki", "search",
 }
 
 # Shown even without a description. Blacklisting scratch repos one by one never
@@ -62,7 +65,8 @@ EXCLUDE_REPOS = {
 # active enough to show now; delete them from here once they have descriptions.
 ALWAYS_INCLUDE = {"open-obsbot-remote", "humation_flutter"}
 
-CONTRIB_LIMIT = 12
+CONTRIB_LIMIT = 6
+CONTRIB_MIN_STARS = 1000   # only surface contributions to repos this recognisable
 PROJECT_LIMIT = 16   # no "and N more" tail, so this is the whole list that shows
 MAX_PAGES = 6      # search and repo listing both page at 100
 
@@ -124,19 +128,49 @@ def contributions():
     if not best:
         raise Unavailable("no external merged PRs found")
 
-    entries = sorted(best.items(), key=lambda e: merged_at(e[1]), reverse=True)
+    # Filter by how recognisable the target repo is, not by recency. A merged PR to
+    # flutter/flutter is a stronger signal than a newer typo fix to a 6-star repo, and a
+    # list sorted purely by date buries the former under the latter. Star counts come
+    # from one GET per repo; if that call is rate limited we keep the existing list
+    # rather than write a half-filtered one.
+    starred = []
+    for slug, pr in best.items():
+        repo = get_json(f"https://api.github.com/repos/{slug}")
+        if repo is None:                       # repo deleted since the PR merged
+            continue
+        stars = repo.get("stargazers_count", 0)
+        if stars >= CONTRIB_MIN_STARS:
+            starred.append((slug, pr, stars))
+    if not starred:
+        raise Unavailable(f"no contributions to repos over {CONTRIB_MIN_STARS} stars")
+
+    starred.sort(key=lambda e: e[2], reverse=True)
     lines = [f"- [{slug}#{pr['number']}]({pr['html_url']}) - {pr['title'].strip().rstrip('.')}"
-             for slug, pr in entries[:CONTRIB_LIMIT]]
-    if len(entries) > CONTRIB_LIMIT:
-        lines.append(f"- ...and {len(entries) - CONTRIB_LIMIT} more across other repositories")
-    return "\n".join(lines), f"{len(entries)} repos from {len(prs)} merged PRs"
+             f"  `{stars:,}★`"
+             for slug, pr, stars in starred[:CONTRIB_LIMIT]]
+    return "\n".join(lines), (f"{len(starred)} repos over {CONTRIB_MIN_STARS}★ "
+                              f"(of {len(best)} external, {len(prs)} PRs); showing {len(lines)}")
 
 
 # --- projects ---------------------------------------------------------------
 
+def featured_repos():
+    """Repos already hand-listed in the Featured work section (everything linked before
+    the projects marker). They are excluded from the auto list so nothing appears twice -
+    editing Featured by hand is enough, there is no second list to keep in sync."""
+    try:
+        body = open(README).read()
+    except OSError:
+        return set()
+    head = body.split("<!-- projects:start -->")[0]
+    return set(re.findall(rf"github\.com/{USER}/([\w.-]+)", head))
+
+
 def projects():
     repos = paged(lambda p: f"https://api.github.com/users/{USER}/repos"
                             f"?per_page=100&page={p}&sort=pushed")
+    featured = featured_repos()
+
     # A repo with no description reads as a blank line in the list, and adding one is
     # the cheapest way for him to opt a repo in, so treat the description as the gate.
     def worth_showing(repo):
@@ -148,6 +182,7 @@ def projects():
             if not r["fork"] and not r["archived"] and not r.get("private")
             and r["name"].lower() != USER.lower()
             and r["name"] not in EXCLUDE_REPOS
+            and r["name"] not in featured
             and worth_showing(r)]
     if not keep:
         raise Unavailable("no public repos found")

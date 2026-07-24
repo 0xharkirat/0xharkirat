@@ -305,6 +305,35 @@ def portrait_block(theme_name, height):
     return "\n".join(css), "\n".join(layers)
 
 
+def portrait_only(theme_name):
+    """Standalone animated portrait, sized to the dither and transparent.
+
+    Same frames as the card, but no panel and no background rect, so it can sit beside
+    the markdown bullets in the README and let the page colour show through. Rounded via
+    a clipPath since there is no rect to carry the corner radius.
+    """
+    frames = PORTRAIT["frames"][theme_name]
+    n, dur = len(frames), PORTRAIT["duration"]
+    w, h = PORTRAIT["width"], PORTRAIT["height"]
+    css = [f".fr{{opacity:0;animation:flick {dur}s steps(1,end) infinite;"
+           "image-rendering:pixelated}",
+           f"@keyframes flick{{0%{{opacity:1}}{100 / n:.4f}%{{opacity:0}}}}"]
+    layers = []
+    for i, data in enumerate(frames):
+        css.append(f"#p{i}{{animation-delay:{-dur * i / n:.4f}s}}")
+        layers.append(f'<image id="p{i}" class="fr" x="0" y="0" width="{w}" height="{h}"'
+                      f' clip-path="url(#r)" href="data:image/png;base64,{data}"/>')
+    return "\n".join([
+        "<?xml version='1.0' encoding='UTF-8'?>",
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}px" height="{h}px" '
+        f'viewBox="0 0 {w} {h}">',
+        f"<style>{chr(10).join(css)}</style>",
+        f'<clipPath id="r"><rect width="{w}" height="{h}" rx="14"/></clipPath>',
+        "\n".join(layers),
+        "</svg>\n",
+    ])
+
+
 def build(theme_name, rows, height):
     t = THEMES[theme_name]
     art_css, art_layers = portrait_block(theme_name, height)
@@ -352,10 +381,11 @@ def main():
         "".join(t for t, _ in row) for row in rows if len(row) > 1)), "panel rows are not flush"
 
     for name in THEMES:
-        path = f"card-{name}.svg"
-        with open(path, "w") as f:
+        with open(f"card-{name}.svg", "w") as f:
             f.write(build(name, rows, height))
-        print(f"wrote {path}")
+        with open(f"portrait-{name}.svg", "w") as f:
+            f.write(portrait_only(name))
+        print(f"wrote card-{name}.svg and portrait-{name}.svg")
 
 
 if __name__ == "__main__":
