@@ -50,6 +50,8 @@
 - [calmendar](https://github.com/0xharkirat/calmendar) - A calm & clean calendar app - made with Flutter. Original design by @inkko44 (x.com/inkko44) - [site](https://calmendar.web.app)
 - [ui_avatar](https://github.com/0xharkirat/ui_avatar) - A simple and customizable Flutter widget to generate beautiful text-based avatars using initials - [site](https://pub.dev/packages/ui_avatar)
 - [anvaad-py](https://github.com/0xharkirat/anvaad-py) - Transliteration toolkit for Gurmukhi ASCII to Unicode, romanized and other character sets - [site](https://pypi.org/project/anvaad-py/)
+- [nft-full-resources](https://github.com/0xharkirat/nft-full-resources) - Complete guide to NFTs
+- [tip-time-app](https://github.com/0xharkirat/tip-time-app) - Tip Calculator app
 <!-- projects:end -->
 
 More at [read.cv/0xharkirat](https://read.cv/0xharkirat).
