@@ -1,8 +1,8 @@
-"""Dither the portrait into animated frames for the profile card.
+"""Build the animated dithered portrait shown in README.md.
 
-Writes portrait-frames.json, which build_card.py embeds. Kept separate because this
-needs Pillow and only has to run when the photo changes, so the daily workflow that
-rebuilds the card stays stdlib-only.
+Writes portrait-dark.svg and portrait-light.svg. Run it by hand whenever the photo
+changes; nothing in the output varies with time, so there is no reason for CI to
+rebuild it on a schedule.
 
 Each frame re-dithers the same image with the threshold displaced by a field of slow
 travelling waves, so cells sitting near the threshold flip while deep blacks and whites
@@ -23,11 +23,10 @@ import urllib.request
 from PIL import Image, ImageOps
 
 FRAMES = 16
-GRID_W = 120          # dither resolution; the card scales this up with hard pixel edges
+GRID_W = 120          # dither resolution; the SVG scales it up with hard pixel edges
 DURATION = 2.8        # seconds per loop
-BOX_W = 330           # display width in card units
-BOX_H = 520           # display height the art column allows
-OUT = "portrait-frames.json"
+BOX_W = 330           # display width, in the README's layout units
+BOX_H = 520           # tallest the portrait column should get
 
 # Travelling waves that displace the dither threshold, in 0-255 levels.
 #
@@ -121,6 +120,40 @@ def encode(bits, w, h, ink, colour):
     return base64.b64encode(blob.getvalue()).decode()
 
 
+def svg(frames, w, h):
+    """Stack the frames and cycle them with CSS.
+
+    Each frame is visible for one slot of the loop; a negative animation-delay staggers
+    them so exactly one shows at a time. steps(1, end) keeps the cut hard, because
+    crossfading would blur the dots into grey and lose the point of a binary dither.
+
+    GitHub renders README images through <img>, which blocks external fetches but does
+    run CSS, so embedded data: URIs cycled this way are the one way to animate here.
+    """
+    n = len(frames)
+    css = [f".fr{{opacity:0;animation:flick {DURATION}s steps(1,end) infinite;"
+           "image-rendering:pixelated}",
+           f"@keyframes flick{{0%{{opacity:1}}{100 / n:.4f}%{{opacity:0}}}}",
+           # Every frame is opacity:0 by default and the animation reveals one at a
+           # time, so switching the animation off alone would leave a blank image.
+           # Pin the first frame visible as well.
+           "@media (prefers-reduced-motion: reduce){.fr{animation:none}#p0{opacity:1}}"]
+    layers = []
+    for i, data in enumerate(frames):
+        css.append(f"#p{i}{{animation-delay:{-DURATION * i / n:.4f}s}}")
+        layers.append(f'<image id="p{i}" class="fr" x="0" y="0" width="{w}" height="{h}"'
+                      f' clip-path="url(#r)" href="data:image/png;base64,{data}"/>')
+    return "\n".join([
+        "<?xml version='1.0' encoding='UTF-8'?>",
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}px" height="{h}px" '
+        f'viewBox="0 0 {w} {h}">',
+        f"<style>{chr(10).join(css)}</style>",
+        f'<clipPath id="r"><rect width="{w}" height="{h}" rx="14"/></clipPath>',
+        "\n".join(layers),
+        "</svg>\n",
+    ])
+
+
 def selfcheck():
     # a non-integer cycle count makes the last frame jump back to the first
     for lx, ly, cycles, amp, phase in WAVES:
@@ -154,18 +187,13 @@ def main():
         for name, spec in THEMES.items():
             frames[name].append(encode(bits, GRID_W, grid_h, spec["ink"], spec["colour"]))
 
-    payload = {
-        "width": box_w, "height": box_h,
-        "grid": [GRID_W, grid_h],
-        "duration": DURATION,
-        "frames": frames,
-    }
-    with open(OUT, "w") as f:
-        json.dump(payload, f, separators=(",", ":"))
+    for name in THEMES:
+        path = f"portrait-{name}.svg"
+        with open(path, "w") as f:
+            f.write(svg(frames[name], box_w, box_h))
+        print(f"wrote {path} ({os.path.getsize(path) / 1024:.0f} KB)")
 
-    size = os.path.getsize(OUT)
-    print(f"wrote {OUT}: {FRAMES} frames, {GRID_W}x{grid_h} dithered, "
-          f"shown at {box_w}x{box_h}, {size / 1024:.0f} KB")
+    print(f"{FRAMES} frames, {GRID_W}x{grid_h} dithered, shown at {box_w}x{box_h}")
 
 
 if __name__ == "__main__":

@@ -9,7 +9,8 @@ never touched:
 Anything that fails - network, rate limit, missing markers - leaves that block exactly
 as it was and exits 0. A stale list beats a workflow that blanks the section.
 
-Deliberately stdlib only, same as build_card.py, so the workflow needs no pip step.
+Deliberately stdlib only, so the workflow needs no pip step. This is the only script
+CI runs; make_portrait.py needs Pillow and is run by hand when the photo changes.
 Unauthenticated it will usually run out of quota partway; set GITHUB_TOKEN.
 """
 
@@ -145,7 +146,10 @@ def contributions():
         raise Unavailable(f"no contributions to repos over {CONTRIB_MIN_STARS} stars")
 
     starred.sort(key=lambda e: e[2], reverse=True)
-    lines = [f"- [{slug}#{pr['number']}]({pr['html_url']}) - {pr['title'].strip().rstrip('.')}"
+    # The star count is already on the line, so the tooltip carries the merge date -
+    # the thing a reader would otherwise have to open the PR to find out.
+    lines = [f"- [{slug}#{pr['number']}]({pr['html_url']}"
+             f"{tooltip('merged ' + merged_at(pr)[:10])}) - {pr['title'].strip().rstrip('.')}"
              f"  `{stars:,}★`"
              for slug, pr, stars in starred[:CONTRIB_LIMIT]]
     return "\n".join(lines), (f"{len(starred)} repos over {CONTRIB_MIN_STARS}★ "
@@ -153,6 +157,34 @@ def contributions():
 
 
 # --- projects ---------------------------------------------------------------
+
+def tooltip(text):
+    """Markdown link title suffix, or nothing when there is no metadata to show.
+
+    A double quote would terminate the title early and corrupt the link, so any that
+    turn up are dropped rather than escaped - these strings are short metadata, not
+    prose, so nothing meaningful is lost.
+    """
+    text = text.replace('"', "").strip()
+    return f' "{text}"' if text else ""
+
+
+def repo_tip(repo):
+    """Hover detail for a project link: what would clutter the line if inlined.
+
+    Deliberately an absolute date rather than "3 days ago". A relative one would differ
+    on every run, so the daily workflow would rewrite the README and commit every single
+    day even when nothing actually changed.
+    """
+    bits = []
+    if repo.get("language"):
+        bits.append(repo["language"])
+    if repo.get("stargazers_count"):        # omit the 0, it reads as a scoreboard
+        bits.append(f"{repo['stargazers_count']}★")
+    if repo.get("pushed_at"):
+        bits.append(f"pushed {repo['pushed_at'][:10]}")
+    return " · ".join(bits)
+
 
 def featured_repos():
     """Repos already hand-listed in the Featured work section (everything linked before
@@ -200,7 +232,7 @@ def projects():
         # real release when there is one, and otherwise only what the `wip` topic claims.
         badge = tag or ("WIP" if "wip" in repo.get("topics", []) else "")
         tagged += bool(tag)
-        line = f"- [{repo['name']}]({repo['html_url']})"
+        line = f"- [{repo['name']}]({repo['html_url']}{tooltip(repo_tip(repo))})"
         if badge:
             line += f" `{badge}`"
         description = (repo.get("description") or "").strip().rstrip(".")

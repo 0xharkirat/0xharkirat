@@ -2,6 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="330px" height="330px" viewBox="0 0 330 330">
 <style>.fr{opacity:0;animation:flick 2.8s steps(1,end) infinite;image-rendering:pixelated}
 @keyframes flick{0%{opacity:1}6.2500%{opacity:0}}
+@media (prefers-reduced-motion: reduce){.fr{animation:none}#p0{opacity:1}}
 #p0{animation-delay:-0.0000s}
 #p1{animation-delay:-0.1750s}
 #p2{animation-delay:-0.3500s}
