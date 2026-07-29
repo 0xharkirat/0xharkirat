@@ -26,8 +26,9 @@ jobs:
 
       # update_readme.py is stdlib only, so there is nothing to install.
       #
-      # The portrait SVGs are not built here. make_portrait.py needs Pillow, and its
-      # output only changes when the photo does, so it is run by hand.
+      # The portrait SVGs are not built here. They come from the dither-portrait
+      # action in portrait.yml, which runs on its own much slower schedule because
+      # the portrait only changes when the avatar does.
       #
       # The built-in GITHUB_TOKEN is enough: it lifts the API rate limit, and the extra
       # private repos a personal token would reveal are all in excluded orgs anyway.

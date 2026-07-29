@@ -1,0 +1,30 @@
+name: Refresh portrait
+
+# The portrait only changes when the GitHub avatar does, and the generator is
+# deterministic, so a run that finds no change commits nothing. Monthly is plenty;
+# use the manual trigger after changing your avatar.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 19 1 * *"
+
+permissions:
+  contents: write
+
+jobs:
+  portrait:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: 0xharkirat/dither-portrait@v1
+        with:
+          username: ${{ github.repository_owner }}
+
+      - name: Commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add portrait-dark.svg portrait-light.svg
+          git commit -m "chore: refresh portrait" || echo "No change"
+          git push

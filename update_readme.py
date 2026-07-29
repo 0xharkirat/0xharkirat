@@ -10,7 +10,8 @@ Anything that fails - network, rate limit, missing markers - leaves that block e
 as it was and exits 0. A stale list beats a workflow that blanks the section.
 
 Deliberately stdlib only, so the workflow needs no pip step. This is the only script
-CI runs; make_portrait.py needs Pillow and is run by hand when the photo changes.
+CI runs for the README. The portrait SVGs come from the dither-portrait action,
+in its own workflow.
 Unauthenticated it will usually run out of quota partway; set GITHUB_TOKEN.
 """
 
