@@ -40,10 +40,11 @@
 <summary>All projects</summary>
 
 <!-- projects:start -->
+- [dither-portrait](https://github.com/0xharkirat/dither-portrait "Python · pushed 2026-07-29") - Turn a photo into an animated dithered SVG for your GitHub profile README
+- [beautiful-hark](https://github.com/0xharkirat/beautiful-hark "MDX · pushed 2026-07-29") - Personal website and blog of Hark Singh — vibe coded with OpenCode (Sonnet 4.6) & TinaCMS - [site](https://harksingh.com)
 - [act_gui](https://github.com/0xharkirat/act_gui "pushed 2026-07-26") - Run GitHub Actions locally on macOS through nektos/act, in GitHub's visual language
 - [dart_autogui](https://github.com/0xharkirat/dart_autogui "Dart · pushed 2026-07-10") - Dart version of pyautogui. FFI in C
 - [tinacms-fumadocs-pkg](https://github.com/0xharkirat/tinacms-fumadocs-pkg "TypeScript · pushed 2026-06-25") - TinaCMS visual-editing adapter for Fumadocs (Next.js App Router)
-- [beautiful-hark](https://github.com/0xharkirat/beautiful-hark "TypeScript · pushed 2026-05-28") - Personal website and blog of Hark Singh — vibe coded with OpenCode (Sonnet 4.6) & TinaCMS - [site](https://harksingh.com)
 - [live_darbar](https://github.com/0xharkirat/live_darbar "Dart · 4★ · pushed 2026-04-05") - A very simple yet powerful & advanced app for live kirtan from Darbar Sahib - [site](https://darbar.live)
 - [polar-dart](https://github.com/0xharkirat/polar-dart "Dart · 6★ · pushed 2026-03-27") - Polar SDK for Dart - [site](https://medium.com/@0xharkirat/polar-dart-polar-sh-dart-sdk-what-who-why-how-424e88d20faf)
 - [rough_notation](https://github.com/0xharkirat/rough_notation "Dart · 4★ · pushed 2026-01-12") - Create animated, hand-drawn-style annotations on widgets using Flutter’s CustomPainter. Inspired by the Rough Notation JS library - [site](https://roughnotation.0xharkirat.com)
@@ -62,11 +63,11 @@ More at [read.cv/0xharkirat](https://read.cv/0xharkirat).
 ## 🌍 Open source contributions
 
 <!-- contributions:start -->
-- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `177,954★`
-- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `93,613★`
-- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,194★`
+- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `177,963★`
+- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `93,645★`
+- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,195★`
 - [vercel/next-learn#300](https://github.com/vercel/next-learn/pull/300 "merged 2023-10-30") - Fix Starter-example README.md  `4,774★`
-- [nank1ro/flutter-shadcn-ui#252](https://github.com/nank1ro/flutter-shadcn-ui/pull/252 "merged 2025-01-20") - Add Theme Color Selector for Dynamic Component Previews - Merge conflicts resolved  `2,758★`
+- [nank1ro/flutter-shadcn-ui#252](https://github.com/nank1ro/flutter-shadcn-ui/pull/252 "merged 2025-01-20") - Add Theme Color Selector for Dynamic Component Previews - Merge conflicts resolved  `2,759★`
 <!-- contributions:end -->
 
 GSoC '24 with [@CCExtractor](https://github.com/CCExtractor) · [verification letter](https://github.com/user-attachments/assets/b0f4aa85-ab08-4370-9109-88219a76f6aa) 
