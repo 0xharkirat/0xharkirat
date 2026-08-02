@@ -40,7 +40,8 @@
 <summary>All projects</summary>
 
 <!-- projects:start -->
-- [beautiful-hark](https://github.com/0xharkirat/beautiful-hark "Astro · pushed 2026-08-01") - Personal website and blog of Hark Singh. 🦙 TinaCMS + 🚀 Astro + ▲ Vercel - [site](https://harksingh.com)
+- [adamcogan.com](https://github.com/0xharkirat/adamcogan.com "MDX · pushed 2026-08-02") - Adam Cogan's blog, migrated from WordPress to TinaCMS + Astro - [site](https://adamcogan.vercel.app)
+- [beautiful-hark](https://github.com/0xharkirat/beautiful-hark "Astro · pushed 2026-08-02") - Personal website and blog of Hark Singh. 🦙 TinaCMS + 🚀 Astro + ▲ Vercel - [site](https://harksingh.com)
 - [dither-portrait](https://github.com/0xharkirat/dither-portrait "Python · 1★ · pushed 2026-07-29") `v1.0.1` - Turn a photo into an animated dithered SVG for your GitHub profile README
 - [act_gui](https://github.com/0xharkirat/act_gui "pushed 2026-07-26") - Run GitHub Actions locally on macOS through nektos/act, in GitHub's visual language
 - [dart_autogui](https://github.com/0xharkirat/dart_autogui "Dart · pushed 2026-07-10") - Dart version of pyautogui. FFI in C
@@ -63,9 +64,9 @@ More at [read.cv/0xharkirat](https://read.cv/0xharkirat).
 ## 🌍 Open source contributions
 
 <!-- contributions:start -->
-- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `178,047★`
-- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `93,801★`
-- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,200★`
+- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `178,071★`
+- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `93,845★`
+- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,201★`
 - [vercel/next-learn#300](https://github.com/vercel/next-learn/pull/300 "merged 2023-10-30") - Fix Starter-example README.md  `4,778★`
 - [nank1ro/flutter-shadcn-ui#252](https://github.com/nank1ro/flutter-shadcn-ui/pull/252 "merged 2025-01-20") - Add Theme Color Selector for Dynamic Component Previews - Merge conflicts resolved  `2,762★`
 <!-- contributions:end -->
