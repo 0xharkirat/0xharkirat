@@ -48,7 +48,7 @@
 - [dart_autogui](https://github.com/0xharkirat/dart_autogui "Dart · pushed 2026-07-10") - Dart version of pyautogui. FFI in C
 - [tinacms-fumadocs-pkg](https://github.com/0xharkirat/tinacms-fumadocs-pkg "TypeScript · pushed 2026-06-25") - TinaCMS visual-editing adapter for Fumadocs (Next.js App Router)
 - [polar-dart](https://github.com/0xharkirat/polar-dart "Dart · 6★ · pushed 2026-03-27") - Polar SDK for Dart - [site](https://medium.com/@0xharkirat/polar-dart-polar-sh-dart-sdk-what-who-why-how-424e88d20faf)
-- [rough_notation](https://github.com/0xharkirat/rough_notation "Dart · 4★ · pushed 2026-01-12") - Create animated, hand-drawn-style annotations on widgets using Flutter’s CustomPainter. Inspired by the Rough Notation JS library - [site](https://roughnotation.0xharkirat.com)
+- [rough_notation](https://github.com/0xharkirat/rough_notation "Dart · 5★ · pushed 2026-01-12") - Create animated, hand-drawn-style annotations on widgets using Flutter’s CustomPainter. Inspired by the Rough Notation JS library - [site](https://roughnotation.0xharkirat.com)
 - [pleasant](https://github.com/0xharkirat/pleasant "Dart · pushed 2025-08-20") - Dart package inspired by the elegance and human-centric philosophy of Ruby - [site](https://pub.dev/packages/pleasant)
 - [calmendar](https://github.com/0xharkirat/calmendar "C++ · pushed 2025-05-26") - A calm & clean calendar app - made with Flutter. Original design by @inkko44 (x.com/inkko44) - [site](https://calmendar.web.app)
 - [ui_avatar](https://github.com/0xharkirat/ui_avatar "C++ · pushed 2025-04-13") - A simple and customizable Flutter widget to generate beautiful text-based avatars using initials - [site](https://pub.dev/packages/ui_avatar)
@@ -64,11 +64,11 @@ More at [read.cv/0xharkirat](https://read.cv/0xharkirat).
 ## 🌍 Open source contributions
 
 <!-- contributions:start -->
-- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `178,945★`
-- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `96,127★`
-- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,054★`
-- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,306★`
-- [flutter/packages#12647](https://github.com/flutter/packages/pull/12647 "merged 2026-09-08") - [camera_web] Fix TypeError when reading the torch capability  `5,307★`
+- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `178,957★`
+- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `96,181★`
+- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,063★`
+- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,309★`
+- [flutter/packages#12647](https://github.com/flutter/packages/pull/12647 "merged 2026-09-08") - [camera_web] Fix TypeError when reading the torch capability  `5,309★`
 - [vercel/next-learn#300](https://github.com/vercel/next-learn/pull/300 "merged 2023-10-30") - Fix Starter-example README.md  `4,786★`
 <!-- contributions:end -->
 
