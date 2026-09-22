@@ -43,7 +43,7 @@
 - [beautiful-hark](https://github.com/0xharkirat/beautiful-hark "Astro · pushed 2026-09-17") - Personal website and blog of Hark Singh. 🦙 TinaCMS + 🚀 Astro + ▲ Vercel - [site](https://harksingh.com)
 - [live_darbar](https://github.com/0xharkirat/live_darbar "Dart · 4★ · pushed 2026-08-12") - A very simple yet powerful & advanced app for live kirtan from Darbar Sahib - [site](https://darbar.live)
 - [adamcogan.com](https://github.com/0xharkirat/adamcogan.com "MDX · pushed 2026-08-06") - Adam Cogan's blog, migrated from WordPress to TinaCMS + Astro - [site](https://adamcogan.vercel.app)
-- [dither-portrait](https://github.com/0xharkirat/dither-portrait "Python · 1★ · pushed 2026-07-29") `v1.0.1` - Turn a photo into an animated dithered SVG for your GitHub profile README
+- [dither-portrait](https://github.com/0xharkirat/dither-portrait "Python · 2★ · pushed 2026-07-29") `v1.0.1` - Turn a photo into an animated dithered SVG for your GitHub profile README
 - [act_gui](https://github.com/0xharkirat/act_gui "pushed 2026-07-26") - Run GitHub Actions locally on macOS through nektos/act, in GitHub's visual language
 - [dart_autogui](https://github.com/0xharkirat/dart_autogui "Dart · pushed 2026-07-10") - Dart version of pyautogui. FFI in C
 - [tinacms-fumadocs-pkg](https://github.com/0xharkirat/tinacms-fumadocs-pkg "TypeScript · pushed 2026-06-25") - TinaCMS visual-editing adapter for Fumadocs (Next.js App Router)
@@ -64,9 +64,9 @@ More at [read.cv/0xharkirat](https://read.cv/0xharkirat).
 ## 🌍 Open source contributions
 
 <!-- contributions:start -->
-- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `179,033★`
-- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `96,471★`
-- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,121★`
+- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `179,048★`
+- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `96,518★`
+- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,128★`
 - [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,317★`
 - [flutter/packages#12647](https://github.com/flutter/packages/pull/12647 "merged 2026-09-08") - [camera_web] Fix TypeError when reading the torch capability  `5,310★`
 - [vercel/next-learn#300](https://github.com/vercel/next-learn/pull/300 "merged 2023-10-30") - Fix Starter-example README.md  `4,788★`
