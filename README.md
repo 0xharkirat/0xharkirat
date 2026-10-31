@@ -41,6 +41,7 @@
 <summary>All projects</summary>
 
 <!-- projects:start -->
+- [herdr_mobile](https://github.com/0xharkirat/herdr_mobile "Dart · pushed 2026-10-31") - Phone client for herdr-core: see your coding agents and answer them. Pairs by QR code over plain SSH
 - [harks-ai-studio](https://github.com/0xharkirat/harks-ai-studio "TypeScript · 1★ · pushed 2026-10-26") - Claude Code skill that makes SSW-style done videos in your own ElevenLabs voice clone, rendered with Remotion
 - [beautiful-hark](https://github.com/0xharkirat/beautiful-hark "Astro · pushed 2026-10-15") - Personal website and blog of Hark Singh. 🦙 TinaCMS + 🚀 Astro + ▲ Vercel - [site](https://harksingh.com)
 - [aca-jobs-locally](https://github.com/0xharkirat/aca-jobs-locally "C# · pushed 2026-09-25") - Test Azure Container Apps jobs locally: Aspire + .NET Web API + Blazor + SQL Server, with the job running in Docker at its Azure CPU and memory limits
@@ -56,7 +57,6 @@
 - [ui_avatar](https://github.com/0xharkirat/ui_avatar "C++ · pushed 2025-04-13") - A simple and customizable Flutter widget to generate beautiful text-based avatars using initials - [site](https://pub.dev/packages/ui_avatar)
 - [anvaad-py](https://github.com/0xharkirat/anvaad-py "Python · 1★ · pushed 2024-01-02") - Transliteration toolkit for Gurmukhi ASCII to Unicode, romanized and other character sets - [site](https://pypi.org/project/anvaad-py/)
 - [nft-full-resources](https://github.com/0xharkirat/nft-full-resources "Jupyter Notebook · pushed 2021-12-06") - Complete guide to NFTs
-- [tip-time-app](https://github.com/0xharkirat/tip-time-app "pushed 2021-09-16") - Tip Calculator app
 <!-- projects:end -->
 
 More at [read.cv/0xharkirat](https://read.cv/0xharkirat).
@@ -66,12 +66,12 @@ More at [read.cv/0xharkirat](https://read.cv/0xharkirat).
 ## 🌍 Open source contributions
 
 <!-- contributions:start -->
-- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `180,733★`
-- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `98,902★`
-- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,487★`
-- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,389★`
-- [flutter/packages#12647](https://github.com/flutter/packages/pull/12647 "merged 2026-09-08") - [camera_web] Fix TypeError when reading the torch capability  `5,328★`
-- [vercel/next-learn#300](https://github.com/vercel/next-learn/pull/300 "merged 2023-10-30") - Fix Starter-example README.md  `4,798★`
+- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `180,834★`
+- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `98,976★`
+- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,490★`
+- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,391★`
+- [flutter/packages#12647](https://github.com/flutter/packages/pull/12647 "merged 2026-09-08") - [camera_web] Fix TypeError when reading the torch capability  `5,329★`
+- [vercel/next-learn#300](https://github.com/vercel/next-learn/pull/300 "merged 2023-10-30") - Fix Starter-example README.md  `4,797★`
 <!-- contributions:end -->
 
 GSoC '24 with [@CCExtractor](https://github.com/CCExtractor) · [verification letter](https://github.com/user-attachments/assets/b0f4aa85-ab08-4370-9109-88219a76f6aa) 
