@@ -66,11 +66,11 @@ More at [read.cv/0xharkirat](https://read.cv/0xharkirat).
 ## 🌍 Open source contributions
 
 <!-- contributions:start -->
-- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `181,421★`
-- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `100,443★`
-- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,632★`
-- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,434★`
-- [flutter/packages#12647](https://github.com/flutter/packages/pull/12647 "merged 2026-09-08") - [camera_web] Fix TypeError when reading the torch capability  `5,344★`
+- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `181,255★`
+- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `100,525★`
+- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,638★`
+- [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,437★`
+- [flutter/packages#12647](https://github.com/flutter/packages/pull/12647 "merged 2026-09-08") - [camera_web] Fix TypeError when reading the torch capability  `5,345★`
 - [vercel/next-learn#300](https://github.com/vercel/next-learn/pull/300 "merged 2023-10-30") - Fix Starter-example README.md  `4,798★`
 <!-- contributions:end -->
 
