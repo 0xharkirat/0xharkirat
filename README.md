@@ -41,7 +41,7 @@
 <summary>All projects</summary>
 
 <!-- projects:start -->
-- [harks-ai-studio](https://github.com/0xharkirat/harks-ai-studio "TypeScript · 1★ · pushed 2026-11-15") - Claude Code skill that makes SSW-style done videos in your own ElevenLabs voice clone, rendered with Remotion
+- [harks-ai-studio](https://github.com/0xharkirat/harks-ai-studio "TypeScript · 2★ · pushed 2026-11-15") - Claude Code skill that makes SSW-style done videos in your own ElevenLabs voice clone, rendered with Remotion
 - [beautiful-hark](https://github.com/0xharkirat/beautiful-hark "Astro · pushed 2026-11-15") - Personal website and blog of Hark Singh. 🦙 TinaCMS + 🚀 Astro + ▲ Vercel - [site](https://harksingh.com)
 - [herdr_mobile](https://github.com/0xharkirat/herdr_mobile "Dart · pushed 2026-10-31") - Phone client for herdr-core: see your coding agents and answer them. Pairs by QR code over plain SSH
 - [aca-jobs-locally](https://github.com/0xharkirat/aca-jobs-locally "C# · pushed 2026-09-25") - Test Azure Container Apps jobs locally: Aspire + .NET Web API + Blazor + SQL Server, with the job running in Docker at its Azure CPU and memory limits
@@ -66,11 +66,11 @@ More at [read.cv/0xharkirat](https://read.cv/0xharkirat).
 ## 🌍 Open source contributions
 
 <!-- contributions:start -->
-- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `181,537★`
-- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `101,146★`
-- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,693★`
+- [flutter/flutter#172285](https://github.com/flutter/flutter/pull/172285 "merged 2025-07-18") - Adopt Null-Aware Elements in `packages/flutter/lib/src/material`  `181,377★`
+- [microsoft/playwright#40817](https://github.com/microsoft/playwright/pull/40817 "merged 2026-05-15") - feat(agents): add Codex --loop=codex generator  `101,207★`
+- [abhisheknaiidu/awesome-github-profile-readme#1768](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1768 "merged 2026-09-11") - Add Dither Portrait to Tools  `31,695★`
 - [microsoft/aspire#18149](https://github.com/microsoft/aspire/pull/18149 "merged 2026-06-16") - Reference Microsoft.Data.SqlClient.Extensions.Azure in SqlServer client integrations for Entra ID auth  `6,456★`
-- [flutter/packages#12647](https://github.com/flutter/packages/pull/12647 "merged 2026-09-08") - [camera_web] Fix TypeError when reading the torch capability  `5,349★`
+- [flutter/packages#12647](https://github.com/flutter/packages/pull/12647 "merged 2026-09-08") - [camera_web] Fix TypeError when reading the torch capability  `5,352★`
 - [vercel/next-learn#300](https://github.com/vercel/next-learn/pull/300 "merged 2023-10-30") - Fix Starter-example README.md  `4,800★`
 <!-- contributions:end -->
 
